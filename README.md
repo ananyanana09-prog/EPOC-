@@ -1,4 +1,4 @@
-# EPOC-
+# EPOC
 A wearable-based system that estimates Excess Post-Exercise Oxygen Consumption (EPOC) using multi-sensor physiological data (HR, HRV, respiration, skin temperature, and motion) to improve accuracy beyond traditional heart rate–only models.
 This project builds a low-cost, multi-sensor model to estimate Excess Post-Exercise Oxygen Consumption (EPOC)—the extra oxygen your body uses after exercise to recover. EPOC reflects workout intensity, oxygen debt, and how much energy your body needs to return to its resting state.
 
